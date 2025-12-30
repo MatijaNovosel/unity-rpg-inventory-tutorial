@@ -1,0 +1,10 @@
+﻿{
+  "items": [{
+    "id": 1,
+    "name": "Iron ring of attack",
+    "description": "A basic ring made of iron, an amethyst is embedded into it.",
+    "tag": 2,
+    "spritePath": "armorAndWeapons_8",
+    "rarity": 1
+  }]
+}

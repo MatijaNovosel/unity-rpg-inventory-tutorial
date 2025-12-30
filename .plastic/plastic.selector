@@ -1,0 +1,4 @@
+repository "Inventory tutorial/unity-rpg-inventory-tutorial@6872284943081@cloud"
+  path "/"
+    br "/main"
+    co "/main"
